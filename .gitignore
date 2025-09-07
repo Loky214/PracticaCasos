@@ -14,4 +14,12 @@ papelera/
 # Archivos temporales de sistema
 .DS_Store
 Thumbs.db
+# Archivos de Eclipse
+.classpath
+.project
+.settings/
+
+# Compilados
+bin/
+*.class
 
