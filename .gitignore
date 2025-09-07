@@ -1,1 +1,17 @@
 #ignorados
+# Archivos de Eclipse
+.project
+.classpath
+.settings/
+.ajustes
+.ruta de clases
+
+# Carpetas de compilación
+bin/
+papelera/
+*.class
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
